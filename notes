@@ -1,0 +1,8 @@
+express -- upstream server at 5000 
+if aonehone to /api send them to 5000   server 
+
+
+server:5000
+
+
+client:3000 
